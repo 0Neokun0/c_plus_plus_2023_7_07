@@ -1,4 +1,6 @@
 # c_plus_plus_2023_7_07
+7/07/2023(金）
+c++入門•c++コーディングテスト
 "	1- [ループ
 		a. 文字列ループ
 		b. 文字列の比較
@@ -8,4 +10,4 @@
 		f. 部分文字列] ,                          　　　
 	2- [C++コーディングテスト
 		a. 文字例逆転]       "
-![image](https://github.com/0Neokun0/c_plus_plus_2023_7_07/assets/90218986/b6136bdb-721f-4787-ac66-262cc9eff88f)
+![image](https://github.com/0Neokun0/c_plus_plus_2023_7_07/assets/90218986/f889f211-3d59-45cf-9d96-a1aa1590e76f)
